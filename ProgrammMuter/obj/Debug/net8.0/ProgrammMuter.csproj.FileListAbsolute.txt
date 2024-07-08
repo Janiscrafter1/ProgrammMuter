@@ -1,0 +1,17 @@
+P:\ProgrammMuter\ProgrammMuter\bin\Debug\net8.0\ProgrammMuter.exe
+P:\ProgrammMuter\ProgrammMuter\bin\Debug\net8.0\ProgrammMuter.deps.json
+P:\ProgrammMuter\ProgrammMuter\bin\Debug\net8.0\ProgrammMuter.runtimeconfig.json
+P:\ProgrammMuter\ProgrammMuter\bin\Debug\net8.0\ProgrammMuter.dll
+P:\ProgrammMuter\ProgrammMuter\bin\Debug\net8.0\ProgrammMuter.pdb
+P:\ProgrammMuter\ProgrammMuter\bin\Debug\net8.0\CSCore.dll
+P:\ProgrammMuter\ProgrammMuter\obj\Debug\net8.0\ProgrammMuter.csproj.AssemblyReference.cache
+P:\ProgrammMuter\ProgrammMuter\obj\Debug\net8.0\ProgrammMuter.GeneratedMSBuildEditorConfig.editorconfig
+P:\ProgrammMuter\ProgrammMuter\obj\Debug\net8.0\ProgrammMuter.AssemblyInfoInputs.cache
+P:\ProgrammMuter\ProgrammMuter\obj\Debug\net8.0\ProgrammMuter.AssemblyInfo.cs
+P:\ProgrammMuter\ProgrammMuter\obj\Debug\net8.0\ProgrammMuter.csproj.CoreCompileInputs.cache
+P:\ProgrammMuter\ProgrammMuter\obj\Debug\net8.0\Programm.E6ECF5E2.Up2Date
+P:\ProgrammMuter\ProgrammMuter\obj\Debug\net8.0\ProgrammMuter.dll
+P:\ProgrammMuter\ProgrammMuter\obj\Debug\net8.0\refint\ProgrammMuter.dll
+P:\ProgrammMuter\ProgrammMuter\obj\Debug\net8.0\ProgrammMuter.pdb
+P:\ProgrammMuter\ProgrammMuter\obj\Debug\net8.0\ProgrammMuter.genruntimeconfig.cache
+P:\ProgrammMuter\ProgrammMuter\obj\Debug\net8.0\ref\ProgrammMuter.dll
