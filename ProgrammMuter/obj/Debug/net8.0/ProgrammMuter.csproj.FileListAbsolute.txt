@@ -9,6 +9,7 @@ P:\ProgrammMuter\ProgrammMuter\obj\Debug\net8.0\ProgrammMuter.GeneratedMSBuildEd
 P:\ProgrammMuter\ProgrammMuter\obj\Debug\net8.0\ProgrammMuter.AssemblyInfoInputs.cache
 P:\ProgrammMuter\ProgrammMuter\obj\Debug\net8.0\ProgrammMuter.AssemblyInfo.cs
 P:\ProgrammMuter\ProgrammMuter\obj\Debug\net8.0\ProgrammMuter.csproj.CoreCompileInputs.cache
+P:\ProgrammMuter\ProgrammMuter\obj\Debug\net8.0\ProgrammMuter.sourcelink.json
 P:\ProgrammMuter\ProgrammMuter\obj\Debug\net8.0\Programm.E6ECF5E2.Up2Date
 P:\ProgrammMuter\ProgrammMuter\obj\Debug\net8.0\ProgrammMuter.dll
 P:\ProgrammMuter\ProgrammMuter\obj\Debug\net8.0\refint\ProgrammMuter.dll
