@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProgrammMuter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+006aa940b32fe72cea10cfd70a18907769bda8bd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69622d11694fd0016e7981ef65ad1026bfe83b85")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProgrammMuter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProgrammMuter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "P:\\ProgrammMuter\\",
+  "WorkspaceRootPath": "P:\\dotnet\\ProgrammMuter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{06F09A69-605B-43F4-86C3-6C9B4FD2EEF0}|ProgrammMuter\\ProgrammMuter.csproj|p:\\programmmuter\\programmmuter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06F09A69-605B-43F4-86C3-6C9B4FD2EEF0}|ProgrammMuter\\ProgrammMuter.csproj|p:\\dotnet\\programmmuter\\programmmuter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06F09A69-605B-43F4-86C3-6C9B4FD2EEF0}|ProgrammMuter\\ProgrammMuter.csproj|solutionrelative:programmmuter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,19 +14,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "P:\\ProgrammMuter\\ProgrammMuter\\Program.cs",
+              "DocumentMoniker": "P:\\dotnet\\ProgrammMuter\\ProgrammMuter\\Program.cs",
               "RelativeDocumentMoniker": "ProgrammMuter\\Program.cs",
-              "ToolTip": "P:\\ProgrammMuter\\ProgrammMuter\\Program.cs",
+              "ToolTip": "P:\\dotnet\\ProgrammMuter\\ProgrammMuter\\Program.cs",
               "RelativeToolTip": "ProgrammMuter\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA2AAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T19:20:21.202Z",
+              "WhenOpened": "2025-12-06T12:22:54.342Z",
               "EditorCaption": ""
             }
           ]
